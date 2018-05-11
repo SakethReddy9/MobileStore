@@ -1,0 +1,7 @@
+com\project\MobileStoreBackEnd\AppTest.class
+com\project\MobileStoreBackEnd\test\CategoryUnitTest.class
+com\project\MobileStoreBackEnd\test\SupplierUnitTest.class
+com\project\MobileStoreBackEnd\test\OrderDetailsUnitTest.class
+com\project\MobileStoreBackEnd\test\ProductUnitTest.class
+com\project\MobileStoreBackEnd\test\CartItemUnitTest.class
+com\project\MobileStoreBackEnd\test\UserUnitTest.class
